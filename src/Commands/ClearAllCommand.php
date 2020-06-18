@@ -12,7 +12,7 @@ class ClearAllCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'laracake:cache';
+    protected $signature = 'laracake:clear';
 
     /**
      * The console command description.

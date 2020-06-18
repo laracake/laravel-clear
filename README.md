@@ -17,7 +17,13 @@ $ composer require laracake/clearall --dev
 And that's it! Start clearing cache with just single command!
 
 ```bash
-$ php artisan laracake:cache
+$ php artisan laracake:clear
+```
+
+Shorthand for your ease :)
+
+```bash
+$ php artisan laracake:clr
 ```
 
 ### Issues

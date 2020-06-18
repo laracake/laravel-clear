@@ -1,18 +1,18 @@
 <?php
 
-namespace Laracake\ClearAll\ClearAllClsCommand;
+namespace Laracake\ClearAll\ClearAllClrCommand;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;
 
-class ClearAllClsCommand extends Command
+class ClearAllClrCommand extends Command
 {
     /**
      * The name and signature of the console command.
      *
      * @var string
      */
-    protected $signature = 'laracake:cls';
+    protected $signature = 'laracake:clr';
 
     /**
      * The console command description.
