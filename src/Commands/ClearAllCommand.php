@@ -43,9 +43,6 @@ class ClearAllCommand extends Command
         Artisan::call('config:clear');
         Artisan::call('view:clear');
         Artisan::call('config:cache');
-        //Artisan::call('optimize');
-        //$output = Artisan::output();
-        //$this->info($output);
         $this->info('Routes, Views and Config Cache cleared and config has been recached successfully');
     }
 }
