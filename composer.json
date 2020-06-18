@@ -16,5 +16,11 @@
             "Laracake\\ClearAll\\": "src/"
         }
     },
-    "require": {}
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laracake\\ClearAll\\ClearAllServiceProvider"
+            ]
+        }
+    }
 }
