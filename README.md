@@ -36,4 +36,4 @@ Thank you for considering contributing to the Laracake Clear project! Please fee
 
 ### License
 
-MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
+MIT: [https://github.com/laracake/laravel-clear/blob/master/LICENSE](https://github.com/laracake/laravel-clear/blob/master/LICENSE)
