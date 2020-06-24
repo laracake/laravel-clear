@@ -1,6 +1,6 @@
 # Laravel clear cache / config in single command
 
-[![Latest Stable Version](https://poser.pugx.org/laracake/clear/v)](//packagist.org/packages/laracake/clear) [![Total Downloads](https://poser.pugx.org/laracake/clear/downloads)](//packagist.org/packages/laracake/clear) [![Latest Unstable Version](https://poser.pugx.org/laracake/clear/v/unstable)](//packagist.org/packages/laracake/clear) [![License](https://poser.pugx.org/laracake/clear/license)](//packagist.org/packages/laracake/clear)
+[![Latest Stable Version](https://poser.pugx.org/laracake/clear/v)](//packagist.org/packages/laracake/clear) [![Latest Unstable Version](https://poser.pugx.org/laracake/clear/v/unstable)](//packagist.org/packages/laracake/clear) [![License](https://poser.pugx.org/laracake/clear/license)](//packagist.org/packages/laracake/clear)
 
 ### Introduction
 This friendly package helps you to clear all config cache issues in laravel with single command.
